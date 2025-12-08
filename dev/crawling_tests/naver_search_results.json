@@ -1,7 +1,7 @@
 {
   "search_keyword": "패딩",
   "search_url": "https://search.shopping.naver.com/ns/search?query=%ED%8C%A8%EB%94%A9",
-  "total_products": 10,
+  "total_products": 5,
   "products": [
     {
       "title": "[스노우피크 어패럴] 시티캠퍼 유틸리티 후드 다운 자켓 (S25WMGDJ68)",
@@ -19,117 +19,62 @@
       }
     },
     {
-      "title": "자르빅 패딩바지 기모팬츠 방한 등산 골프 남자 여성",
-      "original_price": "168,000원",
-      "displayed_price": "98,000원",
-      "product_link": "https://ader.naver.com/v1/9P5uWDJeC6A9rzlHzL3QFoq4_tqL6KtRAbKlKySs6BV9IxhQ_OJJajEdYbqG77MNMj5Ol-QaFUKjAQEFr4Xt3SVAE_v0geyIRaFGgUXiSb3t3uy_7jH8HsPoTIsMt8cvIIJ-ntFGpLoIz3iM9rpeMz7dRnq4ECZtg3y86-cwZKTUwYILaHF4s3isjX-x5GtFj1AZZ0h3sVvSbOy3f0gGkKjJNgQUfohXlVlK8-GLfxq7oL7rIre_MplHJj5yo7hYMSGdw8K7LSDTl2BGsCcBSqERMDfT9FyYFtVnP5EIvYunKTUi9WMJ5f72yK3vMg1XKajyKxJYm3UM909e7vC9FQ==?c=pc.nplusstore.npla&NaPm=1",
-      "thumbnail_url": "https://shopping-phinf.pstatic.net/main_9006602/90066029843.2.jpg?type=f300",
-      "detail_specs": {
-        "상품번호": "12521518990",
-        "제조사": "자르빅협력사",
-        "사용대상": "남녀공용",
-        "사용계절": "가을, 겨울, 봄",
-        "종류": "일반바지",
-        "영수증발급": "신용카드전표, 현금영수증발급",
-        "A/S 안내": "상세정보 확인"
-      }
-    },
-    {
-      "title": "따숨온 발열조끼 낚시 히팅 USB 핫팩 스마트 열선 방한 온열 패딩",
-      "original_price": "99,000원",
-      "displayed_price": "69,000원",
-      "product_link": "https://ader.naver.com/v1/SFNSQgFqAXVc-nY1oH_vqclAEoZVeByNCKg7m42WvGNhZKWmTmH2k000JAgUmN8RfJ2h9EdGf4fI8X5a00S5oP8CquhbvbrNd8KDH0TcURsYy68Z8ux5Ghd3nJgN-DrYQ08Q73w3cGTARsbEWspRgUbsx51OqCCDY1J8PGBUp0xifM0Ay004wwh8bUpODrK3Jlh2phwJI4Y9vXq0S0j5gtdgrTEf-17Ky6vbzyfaLXFEV0U5I2YCVhYa5BO82beqpORGh91YR06WPONpILLmyebovpYckouhBSxPNpcQ_bw5tdVHYcLthNdZycl12-fvHesdWbMxbUR-GROVzOVGL8Q9kHsG9kVq-wn39Fo9qWS7u-BjC1zr4yfiqtPPi9Pe?c=pc.nplusstore.npla&t=0",
-      "thumbnail_url": "https://shopping-phinf.pstatic.net/main_9011612/90116128084.1.jpg?type=f300",
+      "title": "[스노우피크 어패럴] 시티캠퍼 유틸리티 후드 다운 자켓 (S25WMGDJ68)",
+      "original_price": "439,000원",
+      "displayed_price": "369,000원",
+      "product_link": "https://ader.naver.com/v1/lIAK5Zd_TAEw8hyIYVkEaKa9tLmumrNtV0wFm4v0Umg0eNrX1TRha7EYuLFOHMev25sNtN6b5H9Fyr1KYtkiCqrbiDAGhrEMy68MjwiPLJkpduPOQIdbDDVSnHWjLX2Nt-r0DFepz3QUEV3ot5a5QOmMJU7Pj2MAdCy97aRzMjR_F1CnKqIDKl6gyoyceUwTjaEmBetibQWek1vA9zpNcOTbdUzrXVLUAr5EpUtuffdm5nrDMhw5_iqsI9fvDZiK574SBAvYVLwww0CUmP75r8ifwZney5RDxCZpJGSon12iJU3g6FG4g3T3PqncN4fkEE1S6e0C8KbOYQamqoAnXzs2s1IkiyZ-HTTlith7Nwo=?c=pc.nplusstore.npla&t=0",
+      "thumbnail_url": "https://shopping-phinf.pstatic.net/main_9014153/90141536282.2.jpg?type=f300",
       "detail_specs": {}
     },
     {
       "title": "[스노우피크 어패럴] 에어노바 퍼텍스 리버시블 후드 헤비 다운 자켓 (S25WUPDJ14)",
       "original_price": "",
       "displayed_price": "369,000원",
-      "product_link": "https://ader.naver.com/v1/6uyE90er-NnzClKp981QbDBOsf-nugtZ04LvSb4XGhNNrJIu-C9pJJZn7WajgEPMEZ2s4q_zbKJkB6W2pijIidyha4RPX-P2FEiATtf2Ox2rKOcpZkAdQr6APyYIwzZK5DilGATrz-RB5KMnlw5zjNOaRyhxLxcUsuIlz5bUjoaDjVa24lGJcaKBq_TmDEeLml6i6Gq4W5A4rVfdKpWElOirWoT2NWyd5xedRoj-jH2SouK_8FHoQ0BQuX2mAawO6tmgzemkpBLidpYcmLs2g3RdtrUTcrj0mKUgrhg6ZElCdhVLqZHf6FRN5thhWXF0FIIWVgMJWCthANXUIGJ2-RamMRercncG5YVI4HWXjOQ1oS_lYTXOoTrEg7wzm31z?c=pc.nplusstore.npla&t=0",
+      "product_link": "https://ader.naver.com/v1/3EryCTRkOHi-wjUQ2cp-_F-qoR-g064Y2ppuv8r8BbGj1TdWGAHoDZFkkOk9vqlepQ0qdFwIzcCQZhdA0fzWt6C-lj_x8OiD3FenyIirJpCo38z1a3jbgBZ51wUVLFeUocaVrhpU-ZpU3EL2fWy9sYh2cF4USP8T0_d_qyFAAiCI7JC59_i0hmiDdp7ugD9rckqN0Vs4a9PSNE3DsLpAozUCf6OoxB8QTEUzAt3akH1RKD4v0J3OMoWVDVcZ_MPeUh8krTlqFIYe03rVoAGVLeoKeHtuvz6S3yXG_qY59SKDnQQ3g1z0o-0s7djP_-kTg91No6BIzpTzsrbKyNnL8Cp3XdKOr0Hvc4a_3Kq8bog=?c=pc.nplusstore.npla&t=0",
       "thumbnail_url": "https://shopping-phinf.pstatic.net/main_9019061/90190615770.2.jpg?type=f300",
       "detail_specs": {}
+    },
+    {
+      "title": "따숨온 발열조끼 낚시 히팅 USB 핫팩 스마트 열선 방한 온열 패딩",
+      "original_price": "99,000원",
+      "displayed_price": "69,000원",
+      "product_link": "https://ader.naver.com/v1/igBpxE4NWDvKSzFdogW1PYNVyzdvC48WMvQFO_Oyili7dSk-9u57KHi-tvj0bTtm5tPcvptbYvT7wWrwf7XnFQsqhQ56Dmi8t3pAs6aB23T8z4mwmpz2GjgyWDkKL1a9Lk55MS2a36U4GCZBxQAvzHqmHnVuQGbrV0R4Qyrw16k2lRSc2-S-8uyGiKDGLuUXwvLck1EkFcCpj5_NVP3ctLr-4nPIlpWqZLaePVFYOTEmoJL9wKUdjm-XqKDabIlFF35beoMDRDpKQ8vfd7cUZmV7CcFZ-TZwNbnINYfnhuknP0CkUjeTfXOwgcdZR8DBLY3mv8DgYvkuMgVZtyc7huYxXr55Yugcx8Run5NWiMk=?c=pc.nplusstore.npla&t=0",
+      "thumbnail_url": "https://shopping-phinf.pstatic.net/main_9011612/90116128084.1.jpg?type=f300",
+      "detail_specs": {
+        "상품번호": "12571617231",
+        "제조사": "따숨온 협력업체",
+        "모델명": "따숨온 발열조끼",
+        "사은품": "보조배터리 10000mAh 무료증정",
+        "제조일자": "2025.01.01.",
+        "사용대상": "남녀공용",
+        "충전재": "폴리에스테르",
+        "영수증발급": "신용카드전표, 현금영수증발급",
+        "A/S 안내": "상세정보 확인",
+        "인증정보": "[전기용품]안전확인_국가인증 - 한국화학융합시험연구원(KTR)\nYU10856-22002인증번호확인\n구매전 인증번호를 꼭 확인하세요.\n[방송통신기자재]자기적합확인_국가인증 - 국립전파연구원 - 주식회사 바이온\nR-R-BY1-HV01인증번호확인\n구매전 인증번호를 꼭 확인하세요.\n해당 인증정보는 판매자가 등록한 것으로 등록 정보에 대한 일체의 책임은 판매자에게 있습니다."
+      }
+    },
+    {
+      "title": "[스노우피크 어패럴] 에어노바 퍼텍스 리버시블 후드 헤비 다운 자켓 (S25WUPDJ14)",
+      "original_price": "",
+      "displayed_price": "69,000원",
+      "product_link": "https://ader.naver.com/v1/H__OGmuMnPSfLAflytmPXPZhREwscj_3kWhCGWGJvk3OQdccyCQelPxiIpMxaz42SHJJLFbFvUJHhz-lGxys89AFyUV5lg4-G7mafSfsuqlc7Z35I-UOiimAWgfcf9bSl5vie-aQ3-0qiivGI7_7M2F0qEcK-dLRnADh6U54bSUE6Ajz7z7fU7lr9bk2nPZsmet3LYV0eMvnlVs90UaxXFElCRA5m4U8cUU7zydzYaCgnevj_aoVLk1E1uKPduAGI2WkXYIqdbkXbdyuXLQKv9rBJMXGrcM0YqWxxtaYLCFSEx4ITgwXXBrHyXxtaf8Po71e7scx8M59tvex_p7KhSg41QGJkRa9SIjcT8pM30nPLbNnGgHyD0QuFCqosf_qmsvRu_hXRVcHro3AVj5aT38xhi6Qi7gqCd4zceWNi3IfkI6LwvBpGP5Ro2zjw_H92fwYaqYWFuuulceTZg2uNaF8zKu9jtcMwYBLD8Wbiyfpjp3QfNucX5pv1H5EL1IRBizr4Wxq9Eut5UI8yWlByw==?c=pc.nplusstore.npla&t=0",
+      "thumbnail_url": "https://shopping-phinf.pstatic.net/main_9011465/90114655108.jpg?type=f300",
+      "detail_specs": {
+        "상품번호": "12570144255",
+        "제조사": "선덜랜드코리아",
+        "모델명": "5JP-SET",
+        "제조일자": "2019.09.01.",
+        "영수증발급": "신용카드전표, 현금영수증발급",
+        "A/S 안내": "상세정보 확인"
+      }
     },
     {
       "title": "마크곤잘레스 엔젤 숏 푸퍼 다운 자켓 - BLACK",
       "original_price": "219,000원",
       "displayed_price": "175,200원",
-      "product_link": "https://smartstore.naver.com/main/products/12428384851?nl-query=%ED%8C%A8%EB%94%A9&nl-au=6be03af490344e9a8d0c130aee287da5&NaPm=ci%3D6be03af490344e9a8d0c130aee287da5%7Cct%3Dmiwvgesf%7Ctr%3Dnslspp%7Csn%3D12317165%7Chk%3D4ec6c9514dd289dd025e73b2cee91d2c120aa5e1",
+      "product_link": "https://smartstore.naver.com/main/products/12428384851?nl-query=%ED%8C%A8%EB%94%A9&nl-au=32e25583a65a458eafe6b192f1c88bc9&NaPm=ci%3D32e25583a65a458eafe6b192f1c88bc9%7Cct%3Dmiwwcff8%7Ctr%3Dnslspp%7Csn%3D12317165%7Chk%3D1a9a5dbb98478f966169c0a252d91ef64670793c",
       "thumbnail_url": "https://shopping-phinf.pstatic.net/main_8997289/89972895598.jpg?type=f300",
       "detail_specs": {}
-    },
-    {
-      "title": "슈퍼적립 광고",
-      "original_price": "",
-      "displayed_price": "69,900원",
-      "product_link": "https://smartstore.naver.com/main/products/11255304305?nl-query=%ED%8C%A8%EB%94%A9&nl-au=df145704ffa2416c8f07c1154e0b8d0c&NaPm=ci%3Ddf145704ffa2416c8f07c1154e0b8d0c%7Cct%3Dmiwvgesg%7Ctr%3Dnslspp%7Csn%3D1197772%7Chk%3D5a9e2c477949994ffd23c803ea9f4030270d14e6",
-      "thumbnail_url": "https://shopping-phinf.pstatic.net/main_8879981/88799814636.1.jpg?type=f300",
-      "detail_specs": {}
-    },
-    {
-      "title": "나이키 프리마로프트 헤비다운 점퍼 숏패딩 스톰핏 윈드러너 조던 브루클린 패딩",
-      "original_price": "249,000원",
-      "displayed_price": "197,000원",
-      "product_link": "https://smartstore.naver.com/main/products/9623341122?nl-query=%ED%8C%A8%EB%94%A9&nl-au=d3faa96dd3ff4589b3b1cd2a9c4eadd8&NaPm=ci%3Dd3faa96dd3ff4589b3b1cd2a9c4eadd8%7Cct%3Dmiwvgesh%7Ctr%3Dnslsl%7Csn%3D1901396%7Chk%3D498ba80942c058a2d9c332b2739a3ce3260db3e2",
-      "thumbnail_url": "https://shopping-phinf.pstatic.net/main_8716784/87167843392.6.jpg?type=f300",
-      "detail_specs": {
-        "상품번호": "9623341122",
-        "제조사": "나이키",
-        "모델명": "나이키 패딩",
-        "원산지": "상세설명에 표시",
-        "사용대상": "남녀공용",
-        "핏": "루즈핏/오버핏",
-        "종류": "패딩/다운점퍼",
-        "총기장": "숏",
-        "영수증발급": "신용카드전표, 현금영수증발급",
-        "A/S 안내": "상세정보 확인"
-      }
-    },
-    {
-      "title": "301 미니멀 오버핏 덕다운 푸퍼 패딩 점퍼 - 후리스 보온 포켓 워크웨어 스트릿 숏패딩",
-      "original_price": "298,800원",
-      "displayed_price": "111,900원",
-      "product_link": "https://smartstore.naver.com/main/products/7513817367?nl-query=%ED%8C%A8%EB%94%A9&nl-au=0c22ed66999b41b1bee23557a53aaf7d&NaPm=ci%3D0c22ed66999b41b1bee23557a53aaf7d%7Cct%3Dmiwvgesi%7Ctr%3Dnslsl%7Csn%3D3740459%7Chk%3D5c9ab91d8c54437b62cbfd847a285bc776c018fd",
-      "thumbnail_url": "https://shopping-phinf.pstatic.net/main_8505831/85058317689.4.jpg?type=f300",
-      "detail_specs": {}
-    },
-    {
-      "title": "New2026 훼르자 롱패딩 하프 돕바 벤치코트 단체 점퍼 파카 아동 빅사이즈 5XL",
-      "original_price": "59,000원",
-      "displayed_price": "57,000원",
-      "product_link": "https://smartstore.naver.com/main/products/339329917?nl-query=%ED%8C%A8%EB%94%A9&nl-au=d14199b99ba84838b5367216b8f12555&NaPm=ci%3Dd14199b99ba84838b5367216b8f12555%7Cct%3Dmiwvgesi%7Ctr%3Dnslsl%7Csn%3D213021%7Chk%3D38173acf5a808489367663c5d089c4193195a131",
-      "thumbnail_url": "https://shopping-phinf.pstatic.net/main_9048374/9048374296.24.jpg?type=f300",
-      "detail_specs": {
-        "상품번호": "339329917",
-        "제조사": "훼르자",
-        "모델명": "fus972,973,982,983,992,993",
-        "제조일자": "2023.10.07.",
-        "사용대상": "남녀공용",
-        "핏": "기본핏",
-        "종류": "패딩/다운점퍼",
-        "총기장": "롱",
-        "영수증발급": "신용카드전표, 현금영수증발급",
-        "A/S 안내": "상세정보 확인"
-      }
-    },
-    {
-      "title": "기모 깔깔이 남자퀄팅패딩 겨울작업잠바",
-      "original_price": "43,000원",
-      "displayed_price": "29,800원",
-      "product_link": "https://smartstore.naver.com/main/products/11209193472?nl-query=%ED%8C%A8%EB%94%A9&nl-au=2a080a4b8dd04a07a3b25f62e1f7ca4f&NaPm=ci%3D2a080a4b8dd04a07a3b25f62e1f7ca4f%7Cct%3Dmiwvgesj%7Ctr%3Dnslsl%7Csn%3D285761%7Chk%3D7c3208e0f31848f480f5c01101b34759f080b7d6",
-      "thumbnail_url": "https://shopping-phinf.pstatic.net/main_8875370/88753703803.1.jpg?type=f300",
-      "detail_specs": {
-        "상품번호": "11209193472",
-        "제조사": "초코클래식 협력업체",
-        "모델명": "기모 깔깔이 남자퀄팅패딩 겨울작업잠바",
-        "원산지": "베트남산(협력업체)",
-        "사용대상": "남성용",
-        "충전량(최소)": "180g",
-        "주요소재": "폴리에스테르, 기모",
-        "충전재": "솜/폴리에스테르",
-        "영수증발급": "신용카드전표, 현금영수증발급",
-        "A/S 안내": "상세정보 확인"
-      }
     }
   ],
   "_stats": {
