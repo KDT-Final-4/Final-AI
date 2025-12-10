@@ -1,35 +1,35 @@
 {
-  "timestamp": "2025-12-10T14:54:22.423606",
+  "timestamp": "2025-12-10T17:06:40.204183",
   "test_settings": {
     "max_trends": 80,
     "headless": true
   },
   "result": {
-    "total_trends": 49,
+    "total_trends": 50,
     "trends": [
       {
         "keyword": "토트넘 대 슬라비아 프라하",
-        "link": "https://trends.google.co.kr/trends/explore?q=%ED%86%A0%ED%8A%B8%EB%84%98&date=now%201-d&hl=ko"
-      },
-      {
-        "keyword": "바이에른 대 스포르팅",
         "link": "https://trends.google.co.kr/trends/explore?q=%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%EB%A6%AC%EA%B7%B8&date=now%201-d&hl=ko"
       },
       {
-        "keyword": "인테르 대 리버풀",
-        "link": "https://trends.google.co.kr/trends/explore?q=%EC%B1%94%EC%8A%A4&date=now%201-d&hl=ko"
+        "keyword": "김지미",
+        "link": "https://trends.google.co.kr/trends/explore?q=%EB%82%98%ED%9B%88%EC%95%84&date=now%201-d&hl=ko"
       },
       {
-        "keyword": "김지미",
+        "keyword": "바이에른 대 스포르팅",
+        "link": "https://trends.google.co.kr/trends/explore?q=%EB%B0%94%EC%9D%B4%EC%97%90%EB%A5%B8%20%EB%AE%8C%ED%97%A8&date=now%201-d&hl=ko"
+      },
+      {
+        "keyword": "인테르 대 리버풀",
+        "link": ""
+      },
+      {
+        "keyword": "정동원",
         "link": ""
       },
       {
         "keyword": "인요한",
         "link": "https://trends.google.co.kr/trends/explore?q=%EC%9D%B4%EC%86%8C%ED%9D%AC&date=now%201-d&hl=ko"
-      },
-      {
-        "keyword": "정동원",
-        "link": ""
       },
       {
         "keyword": "전재수",
@@ -40,24 +40,28 @@
         "link": "https://trends.google.co.kr/trends/explore?q=%EA%B0%80%EB%94%94%EC%96%B8%EB%82%98%EC%9D%B4%ED%8A%B8&date=now%201-d&hl=ko"
       },
       {
-        "keyword": "국민은행",
+        "keyword": "영남대",
         "link": ""
-      },
-      {
-        "keyword": "정재형",
-        "link": "https://trends.google.co.kr/trends/explore?q=%EC%9E%A5%EC%98%81%EB%9E%80&date=now%201-d&hl=ko"
       },
       {
         "keyword": "sh",
         "link": ""
       },
       {
-        "keyword": "동의대",
+        "keyword": "황제성",
+        "link": "https://trends.google.co.kr/trends/explore?q=%EC%9D%B4%EB%AF%BC%EC%A0%95&date=now%201-d&hl=ko"
+      },
+      {
+        "keyword": "필리버스터",
+        "link": "https://trends.google.co.kr/trends/explore?q=%EC%9A%B0%EC%9B%90%EC%8B%9D&date=now%201-d&hl=ko"
+      },
+      {
+        "keyword": "기업은행",
         "link": ""
       },
       {
-        "keyword": "성균관대학교",
-        "link": "https://trends.google.co.kr/trends/explore?q=%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80&date=now%201-d&hl=ko"
+        "keyword": "박대준",
+        "link": ""
       },
       {
         "keyword": "마치다 젤비아 대 울산",
@@ -68,20 +72,20 @@
         "link": "https://trends.google.co.kr/trends/explore?q=%EB%B6%80%EB%A6%AC%EB%9E%8C&date=now%201-d&hl=ko"
       },
       {
-        "keyword": "나훈아",
+        "keyword": "국민은행",
         "link": ""
       },
       {
-        "keyword": "황제성",
-        "link": "https://trends.google.co.kr/trends/explore?q=%EC%9D%B4%EB%AF%BC%EC%A0%95&date=now%201-d&hl=ko"
+        "keyword": "동의대",
+        "link": "https://trends.google.co.kr/trends/explore?q=%EB%8F%99%EC%9D%98%EB%8C%80%ED%95%99%EA%B5%90&date=now%201-d&hl=ko"
       },
       {
-        "keyword": "기업은행",
-        "link": ""
+        "keyword": "정재형",
+        "link": "https://trends.google.co.kr/trends/explore?q=%EC%9E%A5%EC%98%81%EB%9E%80&date=now%201-d&hl=ko"
       },
       {
-        "keyword": "필리버스터",
-        "link": "https://trends.google.co.kr/trends/explore?q=%EC%9A%B0%EC%9B%90%EC%8B%9D&date=now%201-d&hl=ko"
+        "keyword": "성균관대학교",
+        "link": "https://trends.google.co.kr/trends/explore?q=%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80&date=now%201-d&hl=ko"
       },
       {
         "keyword": "티맵",
@@ -93,26 +97,22 @@
       },
       {
         "keyword": "inter vs liverpool",
-        "link": "https://trends.google.co.kr/trends/explore?q=uefa%20champions%20league&date=now%201-d&hl=ko"
+        "link": "https://trends.google.co.kr/trends/explore?q=champions%20league&date=now%201-d&hl=ko"
       },
       {
-        "keyword": "우리은행",
-        "link": ""
+        "keyword": "india vs south africa",
+        "link": "https://trends.google.co.kr/trends/explore?q=ind%20vs%20sa&date=now%201-d&hl=ko"
       },
       {
-        "keyword": "한국장학재단",
-        "link": "https://trends.google.co.kr/trends/explore?q=%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8&date=now%201-d&hl=ko"
+        "keyword": "골든글러브",
+        "link": "https://trends.google.co.kr/trends/explore?q=%EA%B3%A8%EA%B8%80&date=now%201-d&hl=ko"
       },
       {
-        "keyword": "한기대",
-        "link": "https://trends.google.co.kr/trends/explore?q=%ED%95%9C%EA%B5%AD%EA%B8%B0%EC%88%A0%EA%B5%90%EC%9C%A1%EB%8C%80%ED%95%99%EA%B5%90&date=now%201-d&hl=ko"
+        "keyword": "금리인하",
+        "link": "https://trends.google.co.kr/trends/explore?q=fomc%20%EC%9D%BC%EC%A0%95&date=now%201-d&hl=ko"
       },
       {
         "keyword": "psv vs atlético madrid",
-        "link": ""
-      },
-      {
-        "keyword": "토픽",
         "link": ""
       },
       {
@@ -120,15 +120,11 @@
         "link": ""
       },
       {
-        "keyword": "금리인하",
-        "link": "https://trends.google.co.kr/trends/explore?q=fomc%20%EC%9D%BC%EC%A0%95&date=now%201-d&hl=ko"
-      },
-      {
-        "keyword": "안중근",
+        "keyword": "하루",
         "link": ""
       },
       {
-        "keyword": "미래에셋증권",
+        "keyword": "토픽",
         "link": ""
       },
       {
@@ -136,8 +132,20 @@
         "link": "https://trends.google.co.kr/trends/explore?q=%EC%86%A1%EC%84%B1%EB%AC%B8&date=now%201-d&hl=ko"
       },
       {
-        "keyword": "태안화력발전소",
-        "link": "https://trends.google.co.kr/trends/explore?q=%ED%83%9C%EC%95%88%ED%99%94%EB%A0%A5&date=now%201-d&hl=ko"
+        "keyword": "미래에셋증권",
+        "link": ""
+      },
+      {
+        "keyword": "bayern vs sporting",
+        "link": ""
+      },
+      {
+        "keyword": "안중근",
+        "link": ""
+      },
+      {
+        "keyword": "kb손해보험",
+        "link": ""
       },
       {
         "keyword": "อตาลันต้า พบ เชลซี",
@@ -152,11 +160,11 @@
         "link": ""
       },
       {
-        "keyword": "барселона – айнтрахт франкфурт",
+        "keyword": "이더리움",
         "link": ""
       },
       {
-        "keyword": "이더리움",
+        "keyword": "барселона – айнтрахт франкфурт",
         "link": ""
       },
       {
@@ -164,19 +172,27 @@
         "link": ""
       },
       {
-        "keyword": "삼성화재",
-        "link": "https://trends.google.co.kr/trends/explore?q=%EC%9A%B4%EC%A0%84%EC%9E%90%EB%B3%B4%ED%97%98&date=now%201-d&hl=ko"
+        "keyword": "윤다훈",
+        "link": ""
       },
       {
         "keyword": "오세훈",
         "link": ""
       },
       {
-        "keyword": "싱어게인4",
+        "keyword": "대구은행",
         "link": ""
       },
       {
         "keyword": "서울사이버대학교",
+        "link": ""
+      },
+      {
+        "keyword": "삼성화재",
+        "link": "https://trends.google.co.kr/trends/explore?q=%EC%9A%B4%EC%A0%84%EC%9E%90%EB%B3%B4%ED%97%98&date=now%201-d&hl=ko"
+      },
+      {
+        "keyword": "싱어게인4",
         "link": ""
       },
       {
@@ -190,70 +206,59 @@
       {
         "keyword": "한지은",
         "link": ""
-      },
-      {
-        "keyword": "기상청 동네예보",
-        "link": ""
-      },
-      {
-        "keyword": "미미미누",
-        "link": ""
-      },
-      {
-        "keyword": "한동훈",
-        "link": ""
       }
     ]
   },
   "keywords_only": [
     "토트넘 대 슬라비아 프라하",
+    "김지미",
     "바이에른 대 스포르팅",
     "인테르 대 리버풀",
-    "김지미",
-    "인요한",
     "정동원",
+    "인요한",
     "전재수",
-    "로아",
-    "국민은행",
-    "정재형",
+    "영남대",
     "sh",
-    "동의대",
-    "성균관대학교",
+    "황제성",
+    "필리버스터",
+    "정재형",
+    "가디언나이트",
+    "박대준",
     "마치다 젤비아 대 울산",
     "부리람 유나이티드 대 강원",
-    "나훈아",
-    "황제성",
+    "국민은행",
     "기업은행",
-    "필리버스터",
+    "동의대",
+    "성균관대학교",
     "티맵",
     "barcelona vs eintracht frankfurt",
     "inter vs liverpool",
-    "우리은행",
-    "한국장학재단",
-    "한기대",
-    "psv vs atlético madrid",
-    "토픽",
-    "barcelona đấu với frankfurt",
+    "india vs south africa",
+    "스완지 시티 대 포츠머스",
     "금리인하",
-    "안중근",
-    "미래에셋증권",
+    "psv vs atlético madrid",
+    "barcelona đấu với frankfurt",
+    "하루",
+    "토픽",
     "스포티비",
-    "태안화력발전소",
+    "미래에셋증권",
+    "bayern vs sporting",
+    "안중근",
+    "kb손해보험",
     "อตาลันต้า พบ เชลซี",
     "백해룡",
     "이창호",
-    "барселона – айнтрахт франкфурт",
     "이더리움",
+    "барселона – айнтрахт франкфурт",
     "za dlc",
-    "삼성화재",
+    "윤다훈",
     "오세훈",
-    "싱어게인4",
+    "대구은행",
     "서울사이버대학교",
+    "삼성화재",
+    "싱어게인4",
     "new york times",
     "첼시",
-    "한지은",
-    "기상청 동네예보",
-    "미미미누",
-    "한동훈"
+    "한지은"
   ]
 }

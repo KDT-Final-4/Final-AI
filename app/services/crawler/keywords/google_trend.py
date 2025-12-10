@@ -330,9 +330,9 @@ async def crawl_google_trends(
                                     logger.debug("스크롤 후 버튼 발견 (비활성화 상태이지만 강제 클릭 시도): %s", selector)
                                 else:
                                     logger.debug("스크롤 후 버튼 발견: %s", selector)
-                                break
                             else:
                                 next_btn = None
+                            break
                     except Exception:
                         next_btn = None
                         continue
@@ -532,7 +532,7 @@ async def crawl_google_trends(
                                         if last_keyword not in found:
                                             table_updated = True
                                             break
-                        
+
                         if wait_attempt == 14:
                             # 타임아웃이어도 첫 번째 키워드가 변경되었는지 확인
                             if current_row_count > 0:
