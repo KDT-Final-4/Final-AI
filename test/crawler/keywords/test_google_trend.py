@@ -124,18 +124,15 @@ class TestCrawlGoogleTrends:
         mock_row.query_selector = AsyncMock(side_effect=query_selector_side_effect)
         
         # query_selector_all은 여러 번 호출되므로 side_effect 사용
-        # 방법 0: tbody tr, 방법 1: .mZ3RIc, 방법 2: a, 방법 3: div, span, p 등
+        # 방법 0만 사용 (방법 1, 2, 3 제거됨)
         async def query_selector_all_side_effect(selector):
             if selector == "tbody tr":
                 return [mock_row]  # 방법 0
-            elif selector == ".mZ3RIc":
-                return []  # 방법 1 - 빈 리스트 반환하여 다음 방법으로 진행하지 않음
-            elif selector == "a":
-                return []  # 방법 2
-            else:  # div, span, p 등
-                return []  # 방법 3
+            else:
+                return []  # 다른 셀렉터는 빈 리스트
         mock_page.query_selector_all = AsyncMock(side_effect=query_selector_all_side_effect)
         mock_page.query_selector = AsyncMock(return_value=None)  # 다음 페이지 버튼 없음
+        mock_page.wait_for_load_state = AsyncMock(return_value=None)
         mock_page.goto = AsyncMock(return_value=None)
         mock_page.wait_for_timeout = AsyncMock(return_value=None)
         mock_page.wait_for_selector = AsyncMock(return_value=None)
@@ -170,7 +167,8 @@ class TestCrawlGoogleTrends:
         
         # 빈 결과 반환
         mock_page.query_selector_all = AsyncMock(return_value=[])
-        mock_page.query_selector = AsyncMock(return_value=None)
+        mock_page.query_selector = AsyncMock(return_value=None)  # 다음 페이지 버튼 없음
+        mock_page.wait_for_load_state = AsyncMock(return_value=None)
         mock_page.goto = AsyncMock(return_value=None)
         mock_page.wait_for_timeout = AsyncMock(return_value=None)
         mock_page.wait_for_selector = AsyncMock(return_value=None)
@@ -222,7 +220,8 @@ class TestCrawlGoogleTrends:
             else:
                 return []  # 다른 방법들은 빈 리스트
         mock_page.query_selector_all = AsyncMock(side_effect=query_selector_all_side_effect)
-        mock_page.query_selector = AsyncMock(return_value=None)
+        mock_page.query_selector = AsyncMock(return_value=None)  # 다음 페이지 버튼 없음
+        mock_page.wait_for_load_state = AsyncMock(return_value=None)
         mock_page.goto = AsyncMock(return_value=None)
         mock_page.wait_for_timeout = AsyncMock(return_value=None)
         mock_page.wait_for_selector = AsyncMock(return_value=None)
@@ -256,10 +255,12 @@ class TestCrawlGoogleTrends:
             return None
         mock_page.goto = AsyncMock(side_effect=goto_side_effect)
         # query_selector_all은 여러 번 호출되므로 side_effect 사용
+        # 방법 0만 사용 (방법 1, 2, 3 제거됨)
         async def query_selector_all_side_effect(selector):
-            return []  # 모든 방법에서 빈 리스트 반환
+            return []  # 빈 리스트 반환
         mock_page.query_selector_all = AsyncMock(side_effect=query_selector_all_side_effect)
-        mock_page.query_selector = AsyncMock(return_value=None)
+        mock_page.query_selector = AsyncMock(return_value=None)  # 다음 페이지 버튼 없음
+        mock_page.wait_for_load_state = AsyncMock(return_value=None)
         mock_page.wait_for_timeout = AsyncMock(return_value=None)
         mock_page.wait_for_selector = AsyncMock(return_value=None)
         mock_page.evaluate = AsyncMock(return_value=None)
@@ -400,13 +401,15 @@ class TestIntegration:
             mock_rows.append(mock_row)
         
         # query_selector_all은 여러 번 호출되므로 side_effect 사용
+        # 방법 0만 사용 (방법 1, 2, 3 제거됨)
         async def query_selector_all_side_effect(selector):
             if selector == "tbody tr":
                 return mock_rows  # 방법 0
             else:
-                return []  # 다른 방법들은 빈 리스트
+                return []  # 다른 셀렉터는 빈 리스트
         mock_page.query_selector_all = AsyncMock(side_effect=query_selector_all_side_effect)
-        mock_page.query_selector = AsyncMock(return_value=None)  # 다음 페이지 없음
+        mock_page.query_selector = AsyncMock(return_value=None)  # 다음 페이지 버튼 없음
+        mock_page.wait_for_load_state = AsyncMock(return_value=None)
         mock_page.goto = AsyncMock(return_value=None)
         mock_page.wait_for_timeout = AsyncMock(return_value=None)
         mock_page.wait_for_selector = AsyncMock(return_value=None)
@@ -453,7 +456,7 @@ class TestRealIntegration:
         print("="*70)
         
         # 실제 크롤링 실행
-        max_trends = 20  # 테스트용으로 적은 수
+        max_trends = 80  # 테스트용으로 적은 수
         print(f"\n📦 설정:")
         print(f"   - 최대 수집 개수: {max_trends}개")
         print(f"   - 헤드리스 모드: True")
